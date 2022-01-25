@@ -1,0 +1,112 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.cover{
+    width: 100%;
+    padding: 0%;
+    margin: 0%;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 70px;
+}
+h2{
+    font-size: 40px;
+    text-align: center;
+    background-color: #15293e;
+    color: rgb(255, 211, 211);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    padding: 1%;
+    color: rgb(15, 15, 15);
+    font-size: 35px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+img{
+    float: center;
+    margin: 1px auto;
+    display: block;
+}
+.fotter{
+    background-color: rgb(3, 1, 1);
+    width: 100%;
+    height: 200px;
+}
+
+.map{
+    width: 100vw;
+    height: 400px;
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+h3{
+    text-align: center;
+    text-decoration: solid;
+    font-family: fantasy;
+    font-size: 50px;
+}
+.contact0{
+    font-family: monospace;
+    color: wheat;
+    display: flex;
+}
+.gif{
+
+    width: 200px;
+    height: 200px;
+    border-radius: 49%;
+}
+b{
+    font-family: cursive;
+}
+.hh{
+    color: black;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    border-radius: 20px;
+  }
+  
+  .title {
+    color: grey;
+    font-size: 18px;
+  }
+  
+  button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  
+  a {
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+  }
+  
+  button:hover, a:hover {
+    opacity: 0.7;
+  }
+  .cd{
+      text-align: center;
+      text-decoration: none;
+      color: white;
+  }
+  .tt1{
+      font-family: fantasy;
+  }
